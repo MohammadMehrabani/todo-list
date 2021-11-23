@@ -4,7 +4,7 @@
 
 > Note:
 > You must have PHP v7.4.0+, git and composer installed.
-1. Clone the repo `git clone https://gitlab.com/mehrabani.developer/todo-list-api.git`
+1. Clone the repo `git clone  https://github.com/MohammadMehrabani/todo-list.git`
 2. Copy the `.env.exapmle` to `.env`.
 3. Run `composer install`
 4. Run `php artisan key:generate`
